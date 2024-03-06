@@ -5,4 +5,4 @@ The SFlowAgent periodically exports JMX performance metrics to a central sFlow a
 The java SFlowAgent is designed to work with the Host sFlow agent (which exports performance statistics from the host),
 sharing configuration settings. For more information, see:
 
-http://blog.sflow.com/2011/09/java-virtual-machine.html
+http://blog.**# sflow**.com/2011/09/java-virtual-machine.html
